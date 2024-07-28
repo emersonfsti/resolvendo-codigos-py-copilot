@@ -1,4 +1,5 @@
 # Resolvendo Códigos em Python com o Github Copilot
+### _Atualizado por Emerson Felix de Souza em 28/07/2024._
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
