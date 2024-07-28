@@ -1,8 +1,7 @@
-numero1 = 10
-numero2 = 5
+numero = 21
 
-# Realizando uma operação simples (adição)
-resultado = numero1 + numero2
-
-# Exibindo o resultado
-print(f"A soma de {numero1} e {numero2} é: {resultado}")
+# Verificando se o número é par ou ímpar usando o operador de módulo
+if numero % 2 == 0:
+    print(f"O número {numero} é par.")
+else:
+    print(f"O número {numero} é ímpar.")
