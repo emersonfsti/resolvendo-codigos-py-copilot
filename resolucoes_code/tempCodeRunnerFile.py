@@ -1,9 +1,8 @@
-# Recebendo os dados do usuário
-primeira_entrada = input("Digite a primeira frase: ")
-segunda_entrada = input("Digite a segunda frase: ")
+texto = "Emerson "
+numero = 10
 
-# Concatenando as duas entradas
-resultado = primeira_entrada + " " + segunda_entrada
+# Repetindo a string o número de vezes informado
+resultado = texto * numero
 
 # Exibindo o resultado
-print("A string concatenada é:", resultado)
+print("A string repetida é:", resultado)
