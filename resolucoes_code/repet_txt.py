@@ -1,6 +1,6 @@
 # ============================================================
 # Nome: Emerson Felix
-# Data/Hora: 28/07/2024 14:45
+# Data/Hora: 28/07/2024 17:10
 # Nome do Desafio: Repetindo Textos ✏️
 # Descrição: 
 # Este desafio consiste em solicitar uma string e um número 
@@ -26,7 +26,7 @@ resultado = texto * numero
 print("A string repetida é:", resultado)
 
 # ============================================================
-# - versão com valore iniciais informados
+# - versão com valores iniciais informados
 # ============================================================
 texto = "Emerson "
 numero = 10

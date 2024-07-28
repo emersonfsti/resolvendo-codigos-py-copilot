@@ -1,8 +1,8 @@
-texto = "Emerson "
-numero = 10
+numero1 = 10
+numero2 = 5
 
-# Repetindo a string o número de vezes informado
-resultado = texto * numero
+# Realizando uma operação simples (adição)
+resultado = numero1 + numero2
 
 # Exibindo o resultado
-print("A string repetida é:", resultado)
+print(f"A soma de {numero1} e {numero2} é: {resultado}")
